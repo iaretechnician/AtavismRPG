@@ -1,0 +1,30 @@
+DATE: 11/17/2024 9:37:59 PM : SELECT id, choice FROM editor_option_choice where optionTypeID = (SELECT id from editor_option where optionType = 'Currency Group') AND isactive = 1
+DATE: 11/17/2024 9:39:30 PM : SELECT id, choice FROM editor_option_choice where optionTypeID = (SELECT id from editor_option where optionType = 'Currency Group') AND isactive = 1
+DATE: 11/17/2024 9:39:32 PM : SELECT id FROM editor_option where optionType = 'Weapon Actions' AND isactive = 1
+DATE: 11/17/2024 9:39:32 PM : SELECT optionTypeID, choice FROM editor_option_choice where optionTypeID = 35 AND isactive = 1
+DATE: 11/17/2024 9:39:35 PM : SELECT id, choice FROM editor_option_choice where optionTypeID = (SELECT id from editor_option where optionType = 'Currency Group') AND isactive = 1
+DATE: 11/17/2024 9:39:37 PM : SELECT id FROM editor_option where optionType = 'Weapon Actions' AND isactive = 1
+DATE: 11/17/2024 9:39:37 PM : SELECT optionTypeID, choice FROM editor_option_choice where optionTypeID = 35 AND isactive = 1
+DATE: 11/17/2024 9:39:38 PM : SELECT name FROM item_slots where isactive = 1
+DATE: 11/17/2024 9:39:51 PM : SELECT id, choice FROM editor_option_choice where optionTypeID = (SELECT id from editor_option where optionType = 'Currency Group') AND isactive = 1
+DATE: 11/17/2024 9:39:52 PM : SELECT id FROM editor_option where optionType = 'Weapon Actions' AND isactive = 1
+DATE: 11/17/2024 9:39:52 PM : SELECT optionTypeID, choice FROM editor_option_choice where optionTypeID = 35 AND isactive = 1
+DATE: 11/17/2024 9:39:52 PM : SELECT name FROM item_slots where isactive = 1
+DATE: 11/17/2024 9:44:22 PM : SELECT id, choice FROM editor_option_choice where optionTypeID = (SELECT id from editor_option where optionType = 'Currency Group') AND isactive = 1
+DATE: 11/17/2024 9:44:23 PM : SELECT id FROM editor_option where optionType = 'Weapon Actions' AND isactive = 1
+DATE: 11/17/2024 9:44:23 PM : SELECT optionTypeID, choice FROM editor_option_choice where optionTypeID = 35 AND isactive = 1
+DATE: 11/17/2024 9:44:24 PM : SELECT name FROM item_slots where isactive = 1
+DATE: 11/17/2024 9:46:36 PM : SELECT id, choice FROM editor_option_choice where optionTypeID = (SELECT id from editor_option where optionType = 'Currency Group') AND isactive = 1
+DATE: 11/17/2024 9:46:37 PM : SELECT id FROM editor_option where optionType = 'Weapon Actions' AND isactive = 1
+DATE: 11/17/2024 9:46:37 PM : SELECT optionTypeID, choice FROM editor_option_choice where optionTypeID = 35 AND isactive = 1
+DATE: 11/17/2024 9:47:54 PM : SELECT id, choice FROM editor_option_choice where optionTypeID = (SELECT id from editor_option where optionType = 'Currency Group') AND isactive = 1
+DATE: 11/17/2024 9:47:54 PM : SELECT id FROM editor_option where optionType = 'Weapon Actions' AND isactive = 1
+DATE: 11/17/2024 9:47:54 PM : SELECT optionTypeID, choice FROM editor_option_choice where optionTypeID = 35 AND isactive = 1
+DATE: 11/17/2024 10:44:48 PM : SELECT id, choice FROM editor_option_choice where optionTypeID = (SELECT id from editor_option where optionType = 'Currency Group') AND isactive = 1
+DATE: 11/17/2024 10:44:50 PM : SELECT id FROM editor_option where optionType = 'Weapon Actions' AND isactive = 1
+DATE: 11/17/2024 10:44:50 PM : SELECT optionTypeID, choice FROM editor_option_choice where optionTypeID = 35 AND isactive = 1
+DATE: 11/17/2024 10:44:51 PM : SELECT name FROM item_slots where isactive = 1
+DATE: 11/17/2024 10:56:20 PM : SELECT id, choice FROM editor_option_choice where optionTypeID = (SELECT id from editor_option where optionType = 'Currency Group') AND isactive = 1
+DATE: 11/17/2024 10:56:21 PM : SELECT id FROM editor_option where optionType = 'Weapon Actions' AND isactive = 1
+DATE: 11/17/2024 10:56:21 PM : SELECT optionTypeID, choice FROM editor_option_choice where optionTypeID = 35 AND isactive = 1
+DATE: 11/17/2024 10:56:22 PM : SELECT name FROM item_slots where isactive = 1
